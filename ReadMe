@@ -1,0 +1,30 @@
+RUN THE MODEL:
+
+  Technique 1: 
+  
+      To run the programs, open the code on Google Colab Notebook and copy and paste the code over.
+      Once that is done, run the code, and the results should appear on the screen.
+  
+  Technique 2: 
+      If the user does not have access to Google Colab Notebook, copy and paste or open
+      the codes into a Python IDE (like PyCharm by JetBrains) and run the code there and the results 
+      will appear.
+
+TROUBLESHOOTING:
+
+    If the 2 options are not working, copy and paste or open the code in an IDE of your choice 
+    and ensure Python is installed on the device. 
+
+    After that, install all the libraries that are used in this program
+
+    Command prompt:
+
+        "pip install pandas numpy seaborn matplotlib scikit-learn"
+        or by the following commands below:
+        "pip install pandas"
+        "pip install numpy"
+        "pip install seaborn"
+        "pip install matplotlib"
+        "pip install scikit-learn"
+
+    After all the libraries are installed, the program should run.
